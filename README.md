@@ -6,7 +6,7 @@
 🔗 My personal IG profile (https://www.instagram.com/okankayralci?igsh=bHQxM2w4Mm1ja3Jv&utm_source=qr)
 
 
-### ✍️ Random Dev Quote
+### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
